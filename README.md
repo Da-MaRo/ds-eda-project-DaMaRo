@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on exploratory data analysis (EDA) for real estate investments, specifically for the seller Bonnie Williams. The goal is to identify optimal investment strategies based on neighborhood trends, demand, and renovation potential.
+This project was part of the Data Science Bootcamp at neuefische GmbH and focuses on exploratory data analysis (EDA) for real estate investments, specifically for the seller Bonnie Williams. The goal is to identify optimal investment strategies based on neighborhood trends, demand, and renovation potential.
 
 ## Objectives
 
@@ -31,7 +31,7 @@ This project focuses on exploratory data analysis (EDA) for real estate investme
 
 ### 3. Recommendations
 
-Based on the EDA, we provide the following investment recommendations for Bonnie Williams:
+Based on the EDA, I provide the following investment recommendations for Bonnie Williams:
 
 #### Invest in Trendy Districts
 
@@ -48,7 +48,7 @@ Based on the EDA, we provide the following investment recommendations for Bonnie
 - **Rationale**: Renovating older houses can increase their value significantly, leading to substantial returns on investment.
 - **Approach**: Identify properties in need of renovation that are located in desirable areas. Calculate the potential return on investment by considering renovation costs and expected market value post-renovation.
 
-## Results
+## Results/Output
 
 - **Trendy Districts Identified**: Several districts showing a consistent increase in investment and property values.
 - **High Demand Areas**: Districts with high occupancy rates and affordable housing prices pinpointed.
@@ -56,4 +56,4 @@ Based on the EDA, we provide the following investment recommendations for Bonnie
 
 ## Conclusion
 
-By following the outlined strategies, Bonnie Williams can maximize her investment returns. The recommendations are based on thorough data analysis and are aimed at identifying lucrative opportunities in the real estate market.
+By following the outlined strategies, Bonnie Williams can maximize her investment returns. The recommendations are based on thorough data analysis and are aimed at identifying lucrative opportunities in the real estate market and were showcased in a 10 minute presentation .
